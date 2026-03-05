@@ -4,6 +4,6 @@ Telegram Bot API for Common Lisp
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/40ants/cl-telegram-bot.git |
-| commit  | 44661c5                                           |
+| commit  | 7e47f22                                           |
 | systems | cl-telegram-bot                                   |
 |---------+---------------------------------------------------|
